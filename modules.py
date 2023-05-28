@@ -23,7 +23,7 @@ import threading # its locks like _thread
 import platform # we can use it for information about platform
 import cryptography # we can encrypt in decrypt some things
 import builtins # .pyi and its a master and its import in python
-
+import pkg_resources # we can check dependencies of a program and 
 # Graphics :
 
 import tkinter
